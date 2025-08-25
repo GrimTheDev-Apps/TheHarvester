@@ -1,1 +1,8 @@
-{"customPaths":["[assembly:/_pro/characters/templates/the_harvesters/outfit_deidre_marx_actor_v0.entitytemplate].pc_entitytemplate","[assembly:/_pro/characters/templates/the_harvesters/outfit_deidre_marx_actor_v0.entitytemplate].pc_entityblueprint","[assembly:/_pro/characters/templates/the_harvesters/charset_deidre_marx.entitytemplate].pc_entitytemplate","[assembly:/_pro/characters/templates/the_harvesters/charset_deidre_marx.entitytemplate].pc_entityblueprint"]}
+{
+	"customPaths": [
+		"[assembly:/_pro/characters/templates/the_harvesters/outfit_deidre_marx_actor_v0.entitytemplate].pc_entitytemplate",
+		"[assembly:/_pro/characters/templates/the_harvesters/outfit_deidre_marx_actor_v0.entitytemplate].pc_entityblueprint",
+		"[assembly:/_pro/characters/templates/the_harvesters/charset_deidre_marx.entitytemplate].pc_entitytemplate",
+		"[assembly:/_pro/characters/templates/the_harvesters/charset_deidre_marx.entitytemplate].pc_entityblueprint"
+	]
+}

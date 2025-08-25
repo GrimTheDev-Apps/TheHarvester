@@ -1,1 +1,23 @@
-{"5a639651-a513-4a1a-9599-c31f11a6bde0":{"Description_LOC":"actor_description","Image":"images/actors/mamushi_dimitri-fedorov.jpg","Name":"Deidre Marx","Outfit":"5ba56b71-c0eb-4756-8c61-5a5087fd3123","OutfitVariationIndex":2.0,"Tile":"images/actors/mamushi_dimitri-fedorov.jpg","CharacterSetIndex":0.0,"Description":"Deidre Marx"},"5ba56b71-c0eb-4756-8c61-5a5087fd3123":{"CommonName":"Outfit Deidre Marx","Description":"Outfit Deidre Marx","Name":"Outfit Deidre Marx","Category":"","HeroDisguiseAvailable":false,"Image":"","ImageTransparent":"","IsHitmanSuit":false,"TokenID":""}}
+{
+	"5a639651-a513-4a1a-9599-c31f11a6bde0": {
+		"Description_LOC": "actor_description",
+		"Image": "images/actors/mamushi_dimitri-fedorov.jpg",
+		"Name": "Deidre Marx",
+		"Outfit": "5ba56b71-c0eb-4756-8c61-5a5087fd3123",
+		"OutfitVariationIndex": 2.0,
+		"Tile": "images/actors/mamushi_dimitri-fedorov.jpg",
+		"CharacterSetIndex": 0.0,
+		"Description": "Deidre Marx"
+	},
+	"5ba56b71-c0eb-4756-8c61-5a5087fd3123": {
+		"CommonName": "Outfit Deidre Marx",
+		"Description": "Outfit Deidre Marx",
+		"Name": "Outfit Deidre Marx",
+		"Category": "",
+		"HeroDisguiseAvailable": false,
+		"Image": "",
+		"ImageTransparent": "",
+		"IsHitmanSuit": false,
+		"TokenID": ""
+	}
+}

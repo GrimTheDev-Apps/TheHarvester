@@ -146,77 +146,47 @@
 		{ "RemoveEntityByID": "7c26e84ede2aa72f" },
 		{ "RemoveEntityByID": "0cab17f58e206fd6" },
 		{
-			"SubEntityOperation": [
-				"130f53d846717d5c",
-				{ "RemovePropertyByName": "m_rEscortTarget" }
-			]
+			"SubEntityOperation": ["130f53d846717d5c", { "RemovePropertyByName": "m_rEscortTarget" }]
 		},
 		{
-			"SubEntityOperation": [
-				"130f53d846717d5c",
-				{ "RemovePropertyByName": "m_rVIPController" }
-			]
+			"SubEntityOperation": ["130f53d846717d5c", { "RemovePropertyByName": "m_rVIPController" }]
 		},
 		{
 			"SubEntityOperation": [
 				"130f53d846717d5c",
 				{
-					"PatchArrayPropertyValue": [
-						"m_aActors",
-						[{ "RemoveItemByValue": "d21073b2465383ea" }]
-					]
+					"PatchArrayPropertyValue": ["m_aActors", [{ "RemoveItemByValue": "d21073b2465383ea" }]]
 				}
 			]
 		},
 		{
-			"SubEntityOperation": [
-				"bc23b33a70a49f9f",
-				{ "RemoveAllEventConnectionsForEvent": "OnDone" }
-			]
+			"SubEntityOperation": ["bc23b33a70a49f9f", { "RemoveAllEventConnectionsForEvent": "OnDone" }]
 		},
 		{
-			"SubEntityOperation": [
-				"e7f7eb8458922a57",
-				{ "RemovePropertyByName": "m_rActBehavior" }
-			]
+			"SubEntityOperation": ["e7f7eb8458922a57", { "RemovePropertyByName": "m_rActBehavior" }]
 		},
 		{
-			"SubEntityOperation": [
-				"f5e76973ec4127a6",
-				{ "RemovePropertyByName": "m_rActBehavior" }
-			]
+			"SubEntityOperation": ["f5e76973ec4127a6", { "RemovePropertyByName": "m_rActBehavior" }]
 		},
 		{
-			"SubEntityOperation": [
-				"1554101f7301da8b",
-				{ "RemovePropertyByName": "m_rActBehavior" }
-			]
+			"SubEntityOperation": ["1554101f7301da8b", { "RemovePropertyByName": "m_rActBehavior" }]
 		},
 		{
 			"SubEntityOperation": [
 				"037845cd32a47437",
 				{
-					"PatchArrayPropertyValue": [
-						"m_TriggerEntities",
-						[{ "RemoveItemByValue": "6daa899f2453a43c" }]
-					]
+					"PatchArrayPropertyValue": ["m_TriggerEntities", [{ "RemoveItemByValue": "6daa899f2453a43c" }]]
 				}
 			]
 		},
 		{
-			"SubEntityOperation": [
-				"c8895336a90e153e",
-				{ "RemovePropertyByName": "m_rActor" }
-			]
+			"SubEntityOperation": ["c8895336a90e153e", { "RemovePropertyByName": "m_rActor" }]
 		},
 		{
 			"SubEntityOperation": [
 				"f0574d7184466942",
 				{
-					"PatchArrayPropertyValue": [
-						"m_aActors",
-						[{ "RemoveItemByValue": "d21073b2465383ea" }]
-					]
+					"PatchArrayPropertyValue": ["m_aActors", [{ "RemoveItemByValue": "d21073b2465383ea" }]]
 				}
 			]
 		},
@@ -224,10 +194,7 @@
 			"SubEntityOperation": [
 				"b8663c381525939c",
 				{
-					"PatchArrayPropertyValue": [
-						"m_TriggerEntities",
-						[{ "RemoveItemByValue": "6daa899f2453a43c" }]
-					]
+					"PatchArrayPropertyValue": ["m_TriggerEntities", [{ "RemoveItemByValue": "6daa899f2453a43c" }]]
 				}
 			]
 		},
@@ -235,97 +202,58 @@
 			"SubEntityOperation": [
 				"b6f02dbdebb4995f",
 				{
-					"PatchArrayPropertyValue": [
-						"m_aEnableConditions",
-						[{ "RemoveItemByValue": "1c3b384945038969" }]
-					]
+					"PatchArrayPropertyValue": ["m_aEnableConditions", [{ "RemoveItemByValue": "1c3b384945038969" }]]
 				}
 			]
 		},
 		{
-			"SubEntityOperation": [
-				"b16556d3369f71f0",
-				{ "RemovePropertyByName": "m_rActBehavior" }
-			]
+			"SubEntityOperation": ["b16556d3369f71f0", { "RemovePropertyByName": "m_rActBehavior" }]
 		},
 		{
-			"SubEntityOperation": [
-				"db9e20964c95fc44",
-				{ "RemovePropertyByName": "m_rActBehavior" }
-			]
+			"SubEntityOperation": ["db9e20964c95fc44", { "RemovePropertyByName": "m_rActBehavior" }]
 		},
 		{
-			"SubEntityOperation": [
-				"ef9c7db46a88529a",
-				{ "RemovePropertyByName": "m_rActBehavior" }
-			]
+			"SubEntityOperation": ["ef9c7db46a88529a", { "RemovePropertyByName": "m_rActBehavior" }]
 		},
 		{
-			"SubEntityOperation": [
-				"252c1362d89e5f45",
-				{ "RemovePropertyByName": "m_eidParent" }
-			]
+			"SubEntityOperation": ["252c1362d89e5f45", { "RemovePropertyByName": "m_eidParent" }]
 		},
 		{
-			"SubEntityOperation": [
-				"930da978cde806d8",
-				{ "RemovePropertyByName": "m_rActorProvider" }
-			]
+			"SubEntityOperation": ["930da978cde806d8", { "RemovePropertyByName": "m_rActorProvider" }]
 		},
 		{
-			"SubEntityOperation": [
-				"2bc30949d4316519",
-				{ "RemovePropertyByName": "m_rActBehavior" }
-			]
+			"SubEntityOperation": ["2bc30949d4316519", { "RemovePropertyByName": "m_rActBehavior" }]
 		},
 		{
 			"SubEntityOperation": [
 				"7d3a2868ceb140d9",
 				{
-					"PatchArrayPropertyValue": [
-						"m_TriggerEntities",
-						[{ "RemoveItemByValue": "6daa899f2453a43c" }]
-					]
+					"PatchArrayPropertyValue": ["m_TriggerEntities", [{ "RemoveItemByValue": "6daa899f2453a43c" }]]
 				}
 			]
 		},
 		{
-			"SubEntityOperation": [
-				"3dd01170b7ad08a0",
-				{ "SetName": "Scenario_Mamushi outside" }
-			]
+			"SubEntityOperation": ["3dd01170b7ad08a0", { "SetName": "Scenario_Mamushi outside" }]
 		},
 		{
-			"SubEntityOperation": [
-				"8ffecbdd43746645",
-				{ "RemovePropertyByName": "m_rActorProvider" }
-			]
+			"SubEntityOperation": ["8ffecbdd43746645", { "RemovePropertyByName": "m_rActorProvider" }]
 		},
 		{
 			"SubEntityOperation": [
 				"42591f341acfc13a",
 				{
-					"PatchArrayPropertyValue": [
-						"m_aActors",
-						[{ "RemoveItemByValue": "d21073b2465383ea" }]
-					]
+					"PatchArrayPropertyValue": ["m_aActors", [{ "RemoveItemByValue": "d21073b2465383ea" }]]
 				}
 			]
 		},
 		{
-			"SubEntityOperation": [
-				"d5304b649305e7bf",
-				{ "RemovePropertyByName": "m_rActBehavior" }
-			]
+			"SubEntityOperation": ["d5304b649305e7bf", { "RemovePropertyByName": "m_rActBehavior" }]
 		},
 		{
 			"SubEntityOperation": [
 				"0e44126ceefa860e",
 				{
-					"PatchArrayPropertyValue": [
-						"m_TriggerEntities",
-						[{ "RemoveItemByValue": "6daa899f2453a43c" }]
-					]
+					"PatchArrayPropertyValue": ["m_TriggerEntities", [{ "RemoveItemByValue": "6daa899f2453a43c" }]]
 				}
 			]
 		},
