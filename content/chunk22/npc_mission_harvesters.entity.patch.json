@@ -1,0 +1,31 @@
+{
+	"tempHash": "009AAFAC5EA2ABC8",
+	"tbluHash": "003032578D699567",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"3b7083eb70bb5d41",
+				{
+					"PatchArrayPropertyValue": [
+						"m_aDisguisesAllowed",
+						[
+							{
+								"AddItemAfter": [
+									{
+										"ref": "c090ffcad3fc8345",
+										"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
+									},
+									{
+										"ref": "52502f370ea905ec",
+										"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/location.brick].pc_entitytype"
+									}
+								]
+							}
+						]
+					]
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}
