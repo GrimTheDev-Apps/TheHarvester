@@ -6,4 +6,4 @@ This mod is the first in a campaign of missions called the Rapture Campaign. Thi
 
 ---
 
-`Grim.TheHarvesters` v1.0.0, by Grim. This README was automatically generated from the mod's manifest.
+`Grim.TheHarvesters` v1.0.1, by Grim. This README was automatically generated from the mod's manifest.

@@ -8,7 +8,7 @@
 	"contentFolders": ["content"],
 	"updateCheck": "https://github.com/GrimTheDev-Apps/TheHarvester/releases/latest/download/updates.json",
 	"blobsFolders": ["blobs"],
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"localisationOverrides": {
 		"006A521C6E552EDD": {
 			"english": {
