@@ -10,10 +10,7 @@
 						"m_aHolders",
 						[
 							{
-								"AddItemAfter": [
-									"6dda5aca455e4dcd",
-									"25d25b7a89c2b108"
-								]
+								"AddItemAfter": ["6dda5aca455e4dcd", "25d25b7a89c2b108"]
 							}
 						]
 					]
