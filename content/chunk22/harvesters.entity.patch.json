@@ -1,0 +1,493 @@
+{
+	"tempHash": "00502BC47FC839D9",
+	"tbluHash": "008EFFE882CBCA09",
+	"patch": [
+		{ "RemoveEntityByID": "7e755299ab578e62" },
+		{ "RemoveEntityByID": "e7ed3414d0db9479" },
+		{ "RemoveEntityByID": "e4f65c9d5c30f4f0" },
+		{ "RemoveEntityByID": "25e769ca2be8dbb2" },
+		{ "RemoveEntityByID": "f99c3d8dc45ed2f2" },
+		{ "RemoveEntityByID": "5f4d5f900e7d3d54" },
+		{ "RemoveEntityByID": "85dd31fea344af89" },
+		{ "RemoveEntityByID": "9e24bae1330a4563" },
+		{ "RemoveEntityByID": "05417b1bc2040bf0" },
+		{ "RemoveEntityByID": "6dbd4fd6b41ec743" },
+		{ "RemoveEntityByID": "1f9e9409ba8e3de9" },
+		{ "RemoveEntityByID": "081e6f166c874067" },
+		{ "RemoveEntityByID": "aa6af6c4c7353a2c" },
+		{ "RemoveEntityByID": "aa939ffc070d90f4" },
+		{ "RemoveEntityByID": "1bce72104e3a200d" },
+		{ "RemoveEntityByID": "785e880146f19510" },
+		{ "RemoveEntityByID": "3798dd769f94e8e3" },
+		{ "RemoveEntityByID": "123b787ce67ad283" },
+		{ "RemoveEntityByID": "163ddda7870c1d46" },
+		{ "RemoveEntityByID": "f60be9ad133b4d97" },
+		{ "RemoveEntityByID": "87bb043aef671bdd" },
+		{ "RemoveEntityByID": "a547871ccb518232" },
+		{ "RemoveEntityByID": "42da0ec772c3a6dd" },
+		{ "RemoveEntityByID": "54d74474b0d07313" },
+		{ "RemoveEntityByID": "449fd5c760f8cbe3" },
+		{ "RemoveEntityByID": "59a7bf64f480241c" },
+		{ "RemoveEntityByID": "6ae4ce2170a1b618" },
+		{ "RemoveEntityByID": "785b4198502afb8e" },
+		{ "RemoveEntityByID": "8a52fb813157a551" },
+		{ "RemoveEntityByID": "6e15fdae8c367292" },
+		{ "RemoveEntityByID": "e1c0fed23626f70b" },
+		{ "RemoveEntityByID": "ecca8c20efd26f54" },
+		{ "RemoveEntityByID": "3acb59e2429df8b0" },
+		{ "RemoveEntityByID": "b2e4dd8128907bcb" },
+		{ "RemoveEntityByID": "136ba1c642e10b1a" },
+		{ "RemoveEntityByID": "dc2da1ad829e5e19" },
+		{ "RemoveEntityByID": "70701f4b9f61db7b" },
+		{ "RemoveEntityByID": "8094ebf270837748" },
+		{ "RemoveEntityByID": "33b0e257ca0c4ad7" },
+		{ "RemoveEntityByID": "5b1337074c628336" },
+		{ "RemoveEntityByID": "bce740b549916dfc" },
+		{ "RemoveEntityByID": "413c2d86407d3200" },
+		{ "RemoveEntityByID": "1bdf3dd20c905c52" },
+		{ "RemoveEntityByID": "ea504bf006078f47" },
+		{ "RemoveEntityByID": "9317b09472e8329a" },
+		{ "RemoveEntityByID": "1141f05d8d3dfe53" },
+		{ "RemoveEntityByID": "bf51c58d93ef38f3" },
+		{ "RemoveEntityByID": "55bb63d97da1042d" },
+		{ "RemoveEntityByID": "63844fb4d1790842" },
+		{ "RemoveEntityByID": "719dea3be46ab076" },
+		{ "RemoveEntityByID": "dfb7f24115417167" },
+		{ "RemoveEntityByID": "0fdc33aa18d75916" },
+		{ "RemoveEntityByID": "742a956505e174fd" },
+		{ "RemoveEntityByID": "1014e0c59b5412d2" },
+		{ "RemoveEntityByID": "d1c371713482a456" },
+		{ "RemoveEntityByID": "9e9757faba9d94d2" },
+		{ "RemoveEntityByID": "d21073b2465383ea" },
+		{ "RemoveEntityByID": "d51c458f2406b8f5" },
+		{ "RemoveEntityByID": "6daa899f2453a43c" },
+		{ "RemoveEntityByID": "b826a1c248379545" },
+		{ "RemoveEntityByID": "142d6d43ecbe023c" },
+		{ "RemoveEntityByID": "cad5f9efda0adf45" },
+		{ "RemoveEntityByID": "6268977a1c064a3f" },
+		{ "RemoveEntityByID": "839bfc6bb8d5c469" },
+		{ "RemoveEntityByID": "29f13dfe971e9d72" },
+		{ "RemoveEntityByID": "9a02536ebe7bc5a0" },
+		{ "RemoveEntityByID": "c56de512dbb2925f" },
+		{ "RemoveEntityByID": "3f1fd086f41ca7ac" },
+		{ "RemoveEntityByID": "766a1d149909db9c" },
+		{ "RemoveEntityByID": "f7289a5adcb08709" },
+		{ "RemoveEntityByID": "f8d2c6781e4c6e18" },
+		{ "RemoveEntityByID": "8d29ea86e5850970" },
+		{ "RemoveEntityByID": "c62f53482ba45a6e" },
+		{ "RemoveEntityByID": "358c3c1d98c6248f" },
+		{ "RemoveEntityByID": "e8f8725068306b37" },
+		{ "RemoveEntityByID": "2db35c563b1d19ee" },
+		{ "RemoveEntityByID": "ebacd4635cb458e6" },
+		{ "RemoveEntityByID": "0463639a3d0a5fe3" },
+		{ "RemoveEntityByID": "6fc290ee7786aaaf" },
+		{ "RemoveEntityByID": "6fa74510a6969c0b" },
+		{ "RemoveEntityByID": "19d2e04df96530fd" },
+		{ "RemoveEntityByID": "d290ac9a655a1963" },
+		{ "RemoveEntityByID": "746b3f7bde6e1ca6" },
+		{ "RemoveEntityByID": "2a8f6ad0dd334530" },
+		{ "RemoveEntityByID": "01ad4a273abae0f2" },
+		{ "RemoveEntityByID": "da9409eff61af90e" },
+		{ "RemoveEntityByID": "7f039ff0fa0ba96a" },
+		{ "RemoveEntityByID": "03d59f0581e8a6c1" },
+		{ "RemoveEntityByID": "17ebfc9dfa477afa" },
+		{ "RemoveEntityByID": "75f157e4a4a583ec" },
+		{ "RemoveEntityByID": "9af8d96bea8252e2" },
+		{ "RemoveEntityByID": "99cf102405c945bc" },
+		{ "RemoveEntityByID": "d9f586c21069a84b" },
+		{ "RemoveEntityByID": "242cf739ddf31ef0" },
+		{ "RemoveEntityByID": "fd4d6753c2d2e533" },
+		{ "RemoveEntityByID": "1c3b384945038969" },
+		{ "RemoveEntityByID": "79813fa02411d0ba" },
+		{ "RemoveEntityByID": "76a70e25ce3cc61b" },
+		{ "RemoveEntityByID": "92b09b839e04d16b" },
+		{ "RemoveEntityByID": "2867f57f0315e8f4" },
+		{ "RemoveEntityByID": "4799b419f71e667c" },
+		{ "RemoveEntityByID": "e205e22c477143aa" },
+		{ "RemoveEntityByID": "512aed0753a07419" },
+		{ "RemoveEntityByID": "c38daef2e823619e" },
+		{ "RemoveEntityByID": "7cb29e4790fcafc4" },
+		{ "RemoveEntityByID": "7ca96b48e1fdcef4" },
+		{ "RemoveEntityByID": "8b9d6a77603290ad" },
+		{ "RemoveEntityByID": "cada53c35da7c53a" },
+		{ "RemoveEntityByID": "386e026bdcf870f7" },
+		{ "RemoveEntityByID": "62f6fb92ec6b39c7" },
+		{ "RemoveEntityByID": "6b45e9e898b1ca11" },
+		{ "RemoveEntityByID": "585d25f91089bc6c" },
+		{ "RemoveEntityByID": "3c285fb587aff967" },
+		{ "RemoveEntityByID": "862a8be6db3f85ea" },
+		{ "RemoveEntityByID": "2dc071fc7f4d288a" },
+		{ "RemoveEntityByID": "88ab3022be742ab3" },
+		{ "RemoveEntityByID": "a2e0618de5215651" },
+		{ "RemoveEntityByID": "db06dbf9b3922475" },
+		{ "RemoveEntityByID": "35828594a30f63d0" },
+		{ "RemoveEntityByID": "0c9366b2ab006f13" },
+		{ "RemoveEntityByID": "6ecad9c4495d3b4c" },
+		{ "RemoveEntityByID": "b0dc47c48b94c9a4" },
+		{ "RemoveEntityByID": "9df3f679d77bcb63" },
+		{ "RemoveEntityByID": "e11a5ddccf3cf278" },
+		{ "RemoveEntityByID": "96cc35e1bcd6dbfd" },
+		{ "RemoveEntityByID": "c0d265779fad3a8a" },
+		{ "RemoveEntityByID": "cad262b0114b5e2d" },
+		{ "RemoveEntityByID": "984cb15e102482e3" },
+		{ "RemoveEntityByID": "bd01ff6f9f6ab846" },
+		{ "RemoveEntityByID": "6b19002b0b4c5111" },
+		{ "RemoveEntityByID": "220cf457450535ff" },
+		{ "RemoveEntityByID": "ab727e2ebecf9103" },
+		{ "RemoveEntityByID": "f2ad859b1f4b6793" },
+		{ "RemoveEntityByID": "e64bdf9d72653031" },
+		{ "RemoveEntityByID": "0f6ebac25c9b82aa" },
+		{ "RemoveEntityByID": "2305161facffbf57" },
+		{ "RemoveEntityByID": "1f5833cc798671e2" },
+		{ "RemoveEntityByID": "a6304347de967c1c" },
+		{ "RemoveEntityByID": "cc3f86068bec8755" },
+		{ "RemoveEntityByID": "d7b765fc9edc01c2" },
+		{ "RemoveEntityByID": "8b5147e6b6ff0706" },
+		{ "RemoveEntityByID": "7c26e84ede2aa72f" },
+		{ "RemoveEntityByID": "0cab17f58e206fd6" },
+		{
+			"SubEntityOperation": [
+				"130f53d846717d5c",
+				{ "RemovePropertyByName": "m_rEscortTarget" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"130f53d846717d5c",
+				{ "RemovePropertyByName": "m_rVIPController" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"130f53d846717d5c",
+				{
+					"PatchArrayPropertyValue": [
+						"m_aActors",
+						[{ "RemoveItemByValue": "d21073b2465383ea" }]
+					]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"bc23b33a70a49f9f",
+				{ "RemoveAllEventConnectionsForEvent": "OnDone" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"e7f7eb8458922a57",
+				{ "RemovePropertyByName": "m_rActBehavior" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"f5e76973ec4127a6",
+				{ "RemovePropertyByName": "m_rActBehavior" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"1554101f7301da8b",
+				{ "RemovePropertyByName": "m_rActBehavior" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"037845cd32a47437",
+				{
+					"PatchArrayPropertyValue": [
+						"m_TriggerEntities",
+						[{ "RemoveItemByValue": "6daa899f2453a43c" }]
+					]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c8895336a90e153e",
+				{ "RemovePropertyByName": "m_rActor" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"f0574d7184466942",
+				{
+					"PatchArrayPropertyValue": [
+						"m_aActors",
+						[{ "RemoveItemByValue": "d21073b2465383ea" }]
+					]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"b8663c381525939c",
+				{
+					"PatchArrayPropertyValue": [
+						"m_TriggerEntities",
+						[{ "RemoveItemByValue": "6daa899f2453a43c" }]
+					]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"b6f02dbdebb4995f",
+				{
+					"PatchArrayPropertyValue": [
+						"m_aEnableConditions",
+						[{ "RemoveItemByValue": "1c3b384945038969" }]
+					]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"b16556d3369f71f0",
+				{ "RemovePropertyByName": "m_rActBehavior" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"db9e20964c95fc44",
+				{ "RemovePropertyByName": "m_rActBehavior" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"ef9c7db46a88529a",
+				{ "RemovePropertyByName": "m_rActBehavior" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"252c1362d89e5f45",
+				{ "RemovePropertyByName": "m_eidParent" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"930da978cde806d8",
+				{ "RemovePropertyByName": "m_rActorProvider" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"2bc30949d4316519",
+				{ "RemovePropertyByName": "m_rActBehavior" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"7d3a2868ceb140d9",
+				{
+					"PatchArrayPropertyValue": [
+						"m_TriggerEntities",
+						[{ "RemoveItemByValue": "6daa899f2453a43c" }]
+					]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"3dd01170b7ad08a0",
+				{ "SetName": "Scenario_Mamushi outside" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"8ffecbdd43746645",
+				{ "RemovePropertyByName": "m_rActorProvider" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"42591f341acfc13a",
+				{
+					"PatchArrayPropertyValue": [
+						"m_aActors",
+						[{ "RemoveItemByValue": "d21073b2465383ea" }]
+					]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"d5304b649305e7bf",
+				{ "RemovePropertyByName": "m_rActBehavior" }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"0e44126ceefa860e",
+				{
+					"PatchArrayPropertyValue": [
+						"m_TriggerEntities",
+						[{ "RemoveItemByValue": "6daa899f2453a43c" }]
+					]
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafed15fee57877d",
+				{
+					"parent": "b3380e5e83f0db0d",
+					"name": "CHAR_DeidreMarx",
+					"factory": "[assembly:/templates/gameplay/ai2/actors.template?/npcactor.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/templates/gameplay/ai2/actors.template?/npcactor.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0,
+									"z": -0.0
+								},
+								"position": {
+									"x": -22.26884,
+									"y": 55.282745,
+									"z": 25.000002
+								}
+							}
+						},
+						"RepositoryId": {
+							"type": "ZGuid",
+							"value": "5a639651-a513-4a1a-9599-c31f11a6bde0"
+						},
+						"m_OutfitRepositoryID": {
+							"type": "ZGuid",
+							"value": "5ba56b71-c0eb-4756-8c61-5a5087fd3123"
+						},
+						"m_nOutfitVariation": {
+							"type": "int32",
+							"value": 0
+						},
+						"m_sActorName": {
+							"type": "ZString",
+							"value": "Deidre Marx"
+						},
+						"m_eRequiredVoiceVariation": {
+							"type": "EActorVoiceVariation",
+							"value": "eAVV_CIVMALE01"
+						},
+						"m_InventoryItemKeys": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": []
+						},
+						"m_aEnforcedOutfits": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": [],
+							"postInit": true
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "fffffffffffffffe",
+							"postInit": true
+						}
+					},
+					"subsets": {
+						"AudioEmitters": ["fffffffffffffffe"],
+						"Replicable": ["fffffffffffffffe"]
+					}
+				}
+			]
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "d370dd59db0370d2",
+					"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/npc_mission_snowcrane.brick].pc_entitytype"
+				},
+				"propertyName": "m_OutfitRepositoryID",
+				"propertyOverride": {
+					"type": "ZGuid",
+					"value": "25406dac-d206-48c7-a6df-dffb887c9227"
+				}
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "d370dd59db0370d2",
+					"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/npc_mission_snowcrane.brick].pc_entitytype"
+				},
+				"propertyName": "m_nOutfitVariation",
+				"propertyOverride": { "type": "int32", "value": 3 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "915d95ea22eb9cbf",
+					"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/npc_mission_snowcrane.brick].pc_entitytype"
+				},
+				"propertyName": "m_OutfitRepositoryID",
+				"propertyOverride": {
+					"type": "ZGuid",
+					"value": "25406dac-d206-48c7-a6df-dffb887c9227"
+				}
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "915d95ea22eb9cbf",
+					"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/npc_mission_snowcrane.brick].pc_entitytype"
+				},
+				"propertyName": "m_nOutfitVariation",
+				"propertyOverride": { "type": "int32", "value": 4 }
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "fcd75c66be5581a5",
+					"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/npc_mission_snowcrane.brick].pc_entitytype"
+				},
+				"propertyName": "m_OutfitRepositoryID",
+				"propertyOverride": {
+					"type": "ZGuid",
+					"value": "653ad7d6-7d5d-4554-9551-7573be7205be"
+				}
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "fcd75c66be5581a5",
+					"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/npc_mission_snowcrane.brick].pc_entitytype"
+				},
+				"propertyName": "m_nOutfitVariation",
+				"propertyOverride": { "type": "int32", "value": 1 }
+			}
+		},
+		{
+			"AddOverrideDelete": {
+				"ref": "77ee84a3c29046b5",
+				"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/npc_mission_snowcrane.brick].pc_entitytype"
+			}
+		},
+		{
+			"AddOverrideDelete": {
+				"ref": "2d8ca40e60668d2e",
+				"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/npc_mission_snowcrane.brick].pc_entitytype"
+			}
+		},
+		{
+			"AddOverrideDelete": {
+				"ref": "1f8fcbe34eb6a5ec",
+				"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/npc_mission_snowcrane.brick].pc_entitytype"
+			}
+		},
+		{
+			"AddOverrideDelete": {
+				"ref": "52c90f16ff8b5692",
+				"externalScene": "[assembly:/_pro/scenes/missions/hokkaido/npc_mission_snowcrane.brick].pc_entitytype"
+			}
+		}
+	],
+	"patchVersion": 6
+}

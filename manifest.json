@@ -1,9 +1,41 @@
 {
-	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Test Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
-	"frameworkVersion": "2.25.1"
+    "$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
+    "id": "Grim.TheHarvesters",
+    "name": "The Harvesters - A Special Assignment",
+    "description": "This mod is the first in a campaign of missions called the Rapture Campaign. This mod replaces Hokkaido Snow Festival.",
+    "authors": ["Grim"],
+    "frameworkVersion": "2.33.25",
+    "contentFolders": ["content"],
+    "blobsFolders": ["blobs"],
+    "version": "1.0.0",
+    "localisationOverrides": {
+        "006A521C6E552EDD":{
+            "english": {
+                "781440937":"The Harvesters"
+            }
+        },
+        "008D33DE8C75CACB":{
+            "english": {
+                "3537803260":"The Harvesters"
+            }
+        }
+    },
+    "dependencies": [
+        {
+            "runtimeID": "0086555CC72DF2A1",
+            "toChunk": 22
+        },
+        {
+            "runtimeID": "00F0F59081D06B11",
+            "toChunk": 22
+        },
+        {
+            "runtimeID": "0092AE5233CA442E",
+            "toChunk": 22
+        },
+        {
+            "runtimeID": "00286A7C7542149E",
+            "toChunk": 22
+        }
+    ]
 }

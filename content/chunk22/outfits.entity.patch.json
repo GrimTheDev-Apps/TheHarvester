@@ -1,0 +1,211 @@
+{
+	"tempHash": "004579B8AC90A75E",
+	"tbluHash": "00FA3F576B9F0C80",
+	"patch": [
+		{
+			"AddEntity": [
+				"cafe326a8722289f",
+				{
+					"parent": "bd7b1a4c622d4aab",
+					"name": "Hokkaido_Unique_DeidreMarx_F",
+					"factory": "[modules:/zglobaloutfitkit.class].pc_entitytype",
+					"blueprint": "[modules:/zglobaloutfitkit.class].pc_entityblueprint",
+					"properties": {
+						"m_sId": {
+							"type": "ZGuid",
+							"value": "5ba56b71-c0eb-4756-8c61-5a5087fd3123"
+						},
+						"m_pParentOutfit": {
+							"type": "SEntityTemplateReference",
+							"value": {
+								"ref": "6736fcbbd3e73209",
+								"externalScene": "[assembly:/_pro/scenes/bricks/globaldata.brick].pc_entitytype"
+							}
+						},
+						"m_eActorCCClass": {
+							"type": "EActorCCPreset",
+							"value": "ACCP_CivilianeMale"
+						},
+						"m_eActorType": {
+							"type": "EActorType",
+							"value": "eAT_Civilian"
+						},
+						"m_sCommonName": {
+							"type": "ZString",
+							"value": "Deidre Marx"
+						},
+						"m_sTitle": {
+							"type": "ZString",
+							"value": "Deidre Marx"
+						},
+						"m_DamageMultipliers": {
+							"type": "SBodyPartDamageMultipliers",
+							"value": {
+								"m_fHeadDamageMultiplier": 3.0,
+								"m_fFaceDamageMultiplier": 3.0,
+								"m_fArmDamageMultiplier": 1.0,
+								"m_fLArmDamageScalar": 0.0,
+								"m_fRArmDamageScalar": 0.0,
+								"m_fHandDamageMultiplier": 0.5,
+								"m_fLHandDamageScalar": 0.0,
+								"m_fRHandDamageScalar": 0.0,
+								"m_fLegDamageMultiplier": 0.6000000238418579,
+								"m_fLLegDamageScalar": 0.0,
+								"m_fRLegDamageScalar": 0.0,
+								"m_fTorsoDamageMultiplier": 1.0,
+								"m_bApplyLeftRightScalars": false
+							}
+						},
+						"m_rDescriptionTextResource": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_npcs_raccoon.sweetmenutext?/outfits_raccoon_target_lieutenant_m_description_33caaba6-7e28-4e9c-ad35-8e1d9a3f58f0.sweetline].pc_sweetline",
+								"flag": "5F"
+							}
+						},
+						"m_rNameTextResource": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_npcs_raccoon.sweetmenutext?/outfits_raccoon_target_lieutenant_m_name_33caaba6-7e28-4e9c-ad35-8e1d9a3f58f0.sweetline].pc_sweetline",
+								"flag": "5F"
+							}
+						},
+						"m_eSoundFootwearType": {
+							"type": "EHM5SoundFootwearType",
+							"value": "EFWT_LEATHER"
+						},
+						"m_rDefaultVoiceVariations": {
+							"type": "TArray<EActorVoiceVariation>",
+							"value": ["eAVV_CIVMALE07"]
+						},
+						"m_aCharSets": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["cafe7efae900043b"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe7efae900043b",
+				{
+					"parent": "cafe326a8722289f",
+					"name": "CHARSET_DeidreMarx",
+					"factory": "[assembly:/_pro/characters/templates/the_harvesters/charset_deidre_marx.entitytemplate].pc_entitytemplate",
+					"blueprint": "[assembly:/_pro/characters/templates/the_harvesters/charset_deidre_marx.entitytemplate].pc_entityblueprint"
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe4078123d9938",
+				{
+					"parent": "cafe326a8722289f",
+					"name": "Prof_Hokkaido_Unique",
+					"factory": "[assembly:/_pro/design/actor/profession.template?/prof_hokkaido_unique.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/actor/profession.template?/prof_hokkaido_unique.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["cafe326a8722289f"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe1b1c52177079",
+				{
+					"parent": "cafe326a8722289f",
+					"name": "Prof_Hokkaido_Unique_HospitalDirector",
+					"factory": "[assembly:/_pro/design/actor/profession.template?/prof_hokkaido_unique_hospitaldirector.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/actor/profession.template?/prof_hokkaido_unique_hospitaldirector.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["cafe326a8722289f"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe7a0e186944fd",
+				{
+					"parent": "cafe326a8722289f",
+					"name": "Keyword_Prof_Class_Worker_Scientist",
+					"factory": "000A0D1C0181E721",
+					"blueprint": "0019C146AD50C6D1",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["cafe326a8722289f"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafec13c9a0542d1",
+				{
+					"parent": "cafe326a8722289f",
+					"name": "Keyword_Prof_Class_Default",
+					"factory": "007A51A2AFEC0D1A",
+					"blueprint": "00B0282A41C1CF2E",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["cafe326a8722289f"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe923a567f954e",
+				{
+					"parent": "cafe326a8722289f",
+					"name": "KeywordEntity_FOLEY_OUTFIT_SUIT47",
+					"factory": "[assembly:/_pro/design/gamecore/keywords/keywordsound.template?/keywordentity_foley_outfit_suit47.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/gamecore/keywords/keywordsound.template?/keywordentity_foley_outfit_suit47.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["cafe326a8722289f"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafee721b7f7e491",
+				{
+					"parent": "cafe326a8722289f",
+					"name": "Prof_Hokkaido",
+					"factory": "[assembly:/_pro/design/actor/profession.template?/prof_hokkaido.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/actor/profession.template?/prof_hokkaido.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_aHolders": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["cafe326a8722289f"],
+							"postInit": true
+						}
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}
